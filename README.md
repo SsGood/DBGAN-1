@@ -21,7 +21,7 @@ python run.py
 ```
 or modifying the network parameters and run
 ```bash
-python run.py --hidden3 xxx --hidden2 xxx --learning_rate xxx ....
+python run.py --hidden3 xxx --hidden2 xxx --learning_rate xxx ...
 ```
 
 You can select the dataset in ```run.py```
