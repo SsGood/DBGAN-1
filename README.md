@@ -13,6 +13,7 @@ This code contains two versions of the hyper-parameters. The first one is the im
 * scikit-learn
 * scipy
 * dppy
+* munkres
 
 ## Run from
 preset version:
