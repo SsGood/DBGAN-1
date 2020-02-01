@@ -4,7 +4,7 @@ This is a TensorFlow implementation of the Distribution-induced Bidirectional GA
 Some of the code is borrowed from T. N. Kipf, M. Welling, Variational Graph Auto-Encoders [https://github.com/tkipf/gae]
 
 ## Introduction
-This code contains two versions of the hyper-parameters. The first one is the implementation of node clustering tasks. The second one is the implementation of link prediction tasks.
+This code contains two versions of the hyper-parameters. The first one is the implementation of node clustering task. The second one is the implementation of link prediction task.
 
 ## Requirements
 * TensorFlow >= 1.12.0
